@@ -3,6 +3,7 @@
         {
             "name": "Win32",
             "includePath": [
+                "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
                 "C:\\Users\\Me\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266",
                 "${workspaceRoot}",
                 "D:\\Program Files (x86)\\Arduino\\hardware\\tools",
@@ -12,6 +13,7 @@
             ],
             "browse": {
                 "path": [
+                    "D:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino",
                     "C:\\Users\\Me\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.4.0\\cores\\esp8266",
                     "${workspaceRoot}",
                     "D:\\Program Files (x86)\\Arduino\\hardware\\tools",
